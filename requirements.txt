@@ -1,0 +1,7 @@
+streamlit
+openai
+tweepy
+textblob
+chromadb
+python-dotenv
+pandas
